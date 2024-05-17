@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Arpita-Game
+- 👀 I’m interested in Data Science Projects
+- 💻 I’m currently learning Python For Data science, ML, DL
